@@ -1,11 +1,11 @@
 ---
 title: "Awesome Terminal Setup with iTerm2, ZSH and Oh-My-Zsh"
 date: 2017-08-27T23:50:06+05:30
-lastmod: 2019-08-27T23:50:06+05:30
+lastmod: 2019-08-28T23:50:06+05:30
 keywords: ["zsh", "oh-my-zsh", "iterm"]
 description: "oh-my-zsh setup with iterm"
 draft: false
-tags: []
+tags: ["zsh", "oh-my-zsh", "iterm"]
 categories: []
 ---
 

@@ -60,7 +60,7 @@ copyright = ""            # default: author.name ↓
   # site info (optional)
   logoTitle = "Pankaj Singh"        # default: the title value
   keywords = ["AWS", "Ruby","Ruby on Rails", "Scala"]
-  description = "Personal Blog"
+  description = ""
 
   # paginate of archives, tags and categories
   archivePaginate = 5
