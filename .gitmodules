@@ -1,0 +1,3 @@
+[submodule "themes/even"]
+	path = themes/even
+	url = git@me.github.com:olOwOlo/hugo-theme-even.git
